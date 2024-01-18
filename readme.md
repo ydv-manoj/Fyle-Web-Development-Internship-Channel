@@ -14,6 +14,6 @@ details.
 ## How to Run
 
 1. Clone the repository to your local machine:
-   git clone https://github.com/your-username/github-repositories-viewer.git
+   git clone https://github.com/ydv-manoj/Fyle-Web-Development-Internship-Channel.git
    Navigate to the project directory:
-   Run home.html file
+   Run home.html file on your browser
